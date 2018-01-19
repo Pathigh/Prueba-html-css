@@ -12,9 +12,7 @@ footer {
 h4{
 	text-align: center;
 }
-.center{
-	
-}
+
 .articulo{
 	padding-bottom: 166px;
     padding-top: 90px;
@@ -32,9 +30,19 @@ h4{
 padding-top: 0px;
 }
 .bajar{
-	top: 150px;
+	top: 0px;
 }
 
-@media{
+@media (max-width: 770px){
+.media{
+
+}
+
+}
+
+.subir{
+
+}
+.derecha{
 	
 }
