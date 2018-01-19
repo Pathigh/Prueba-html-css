@@ -32,17 +32,10 @@ padding-top: 0px;
 .bajar{
 	top: 0px;
 }
-
-@media (max-width: 770px){
-.media{
-
+@media (max-width: 866px;) {
+	.derecha{
+		float: left;
+		margin-top:  100px;
+	}
 }
-
-}
-
-.subir{
-
-}
-.derecha{
-	
-}
+.
